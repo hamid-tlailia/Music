@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "artist": "Kara sevda",
+      "title": "Kara sevda __ anlatamam موسيقى الحب الأعمى(MP3_160K)",
+      "image": "./images/sevda.jpg",
+      "src": "./media/Kara sevda __ anlatamam موسيقى الحب الأعمى(MP3_160K).mp3"
+    },
+    {
+      "artist": "Alan Walker",
+      "title": "Alan Walker Style - Chameleon Remix (New Song 2022)(MP3_320K)",
+      "image": "./images/style.jpg",
+      "src": "./media/Alan Walker Style - Chameleon Remix (New Song 2022)(MP3_320K).mp3"
+    },
+    {
+      "artist": "Alan Walker",
+      "title": "Alok _ Alan Walker - Headlights (Fajar Asia Remix) feat. KIDDO(MP3_320K)",
+      "image": "./images/alok.jpg",
+      "src": "./media/Alok _ Alan Walker - Headlights (Fajar Asia Remix) feat. KIDDO(MP3_320K).mp3"
+    },
+    {
+      "artist": "El Profesor",
+      "title": "Bella Ciao(MP3_160K)",
+      "image": "./images/bella.jpeg",
+      "src": "./media/Bella Ciao(MP3_160K).mp3"
+    },
+    {
+      "artist": "Kids",
+      "title": "Game over sound",
+      "image": "./images/game-over.jpg",
+      "src": "./media/game-over.mp3"
+    }
+  ]
+}
